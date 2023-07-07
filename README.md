@@ -1,1 +1,1 @@
-# stepik_autotests_course
+#homework tests
